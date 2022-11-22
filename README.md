@@ -1,7 +1,7 @@
 # Cleep
 # Cleep is a .NET application that disables company wide forced screensavers. You can use it to disable screensaver time and make your desktop open.
 #
-<img width="175" alt="cleep" src="https://user-images.githubusercontent.com/34473125/203241980-62d635b7-4d62-49d4-86fd-b0a9976814fb.png">
+# <img width="175" alt="cleep" src="https://user-images.githubusercontent.com/34473125/203241980-62d635b7-4d62-49d4-86fd-b0a9976814fb.png">
 #
 #
 # if you like it please donate to support us
